@@ -1,2 +1,2 @@
 # go
-Jogo desenvolvido em java
+Jogo de bola desenvolvido em java
